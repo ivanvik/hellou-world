@@ -1,2 +1,3 @@
-# hellou-world
-my first prodgekt
+# hello-world
+
+my name is Ivan
